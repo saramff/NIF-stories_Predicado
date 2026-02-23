@@ -641,7 +641,7 @@ const supabase = createClient(
   import.meta.env.VITE_SUPABASE_API_KEY
 );
 
-const TABLE_NAME = "StoriesNIFMainObject";
+const TABLE_NAME = "StoriesNIFPredicate";
 
 async function saveData(data) {
   console.log(data);
