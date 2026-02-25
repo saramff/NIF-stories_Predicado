@@ -710,7 +710,7 @@ export const words = [
     correctResponse: "",
   },
   {
-    word: "Espejo",
+    word: "Espejos",
     old: false,
     correctResponse: "",
   },
@@ -730,7 +730,7 @@ export const words = [
     correctResponse: "",
   },
   {
-    word: "Toalla",
+    word: "Toallas",
     old: false,
     correctResponse: "",
   },
@@ -755,7 +755,7 @@ export const words = [
     correctResponse: "",
   },
   {
-    word: "Lata",
+    word: "Latas",
     old: false,
     correctResponse: "",
   },
@@ -795,7 +795,7 @@ export const words = [
     correctResponse: "",
   },
   {
-    word: "Abrigo",
+    word: "Abrigos",
     old: false,
     correctResponse: "",
   },
